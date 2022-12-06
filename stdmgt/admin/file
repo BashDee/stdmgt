@@ -1,0 +1,21 @@
+add status to student to mark student active or not...inactive student wont be able to login this maybe due to suspension or uncleared student
+* delete.php need some cleanup
+
+*check if a course exists first using AJAX.... tried but not working
+
+
+*create a function file where most functions will be called from
+
+
+
+* choosing course view too base on semester.....DONE
+
+*previous session views too
+
+*check if the same course entry exists.......DONE
+
+*create a toggle for session and semester to toggle present semester and session
+
+* filter most inputs for recommmended entries.. secuty measures
+
+* set delete button on admin/session.php
